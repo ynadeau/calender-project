@@ -16,7 +16,7 @@ public class BasicJavaApp {
 		start(myApp);
 	}
 
-	private static void start(BasicJavaApp myApp) {
+	protected static void start(BasicJavaApp myApp) {
 		myApp.init();
 		myApp.main();
 		myApp.tearDown();
