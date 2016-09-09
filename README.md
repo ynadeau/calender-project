@@ -1,11 +1,12 @@
-#Basic project
+#Basic Java Project
 
 *Simple Project*
 
 **Java 7**
 
 * Java Application
-* use Maven
+* Maven
+* JUnit
 
 Simple Java Application
 
