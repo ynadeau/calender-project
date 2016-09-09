@@ -1,4 +1,4 @@
-#Basic project
+#Automation project
 
 *Simple Project*
 
@@ -6,7 +6,9 @@
 
 * Java Application
 * use Maven
+* TestNG
+* Selenium
 
-Simple Java Application
+Test Cases Using Selenium
 
 [Yves Nadeau]()
