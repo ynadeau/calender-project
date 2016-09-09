@@ -8,7 +8,11 @@
 * use Maven
 * TestNG
 * Selenium
+* Log4j
+* JBDC
+* SQL
+* CVS/ Test
 
-Test Cases Using Selenium
+Automation project
 
-[Yves Nadeau]()
+[Yves Nadeau](http://sqasolution.com)
