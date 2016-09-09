@@ -1,17 +1,12 @@
-#Automation project
+#Basic Java Project
 
 *Simple Project*
 
 **Java 7**
 
 * Java Application
-* use Maven
-* TestNG
-* Selenium
-* Log4j
-* JBDC
-* SQL
-* CVS/ Test
+* Maven
+* JUnit
 
 Automation project
 
